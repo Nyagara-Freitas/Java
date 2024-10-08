@@ -29,7 +29,46 @@ Baixar jdk no site da Oracle, de acordo com o sistema operacional (86x ou x64) >
 A IDE é a plataforma de desenvolvimento parecida com o Vscode. No java usa-se Eclipse ou IntelliJ.
 
 
-
-
-
 https://www.youtube.com/watch?si=H6-j_plL6OlMKz3Z&v=m60Qe5dLQKI&feature=youtu.be
+
+
+
+
+# Convenções
+
+Combinações/Padrões 
+
+Design patterns = Padrões de Projeto
+
+GOF = Gang of four
+
+- nome do projeto deve seguir o padrão: 
+```ex:
+com.itau.sistema.financeiro 
+```
+
+- nome do arquivo (dentro do projeto)
+```ex:
+MeuArquivo.java
+```
+
+- classes
+    as primeiras letras maiúscula em cada palavra
+![alt text](image.png)
+
+- funções
+    tem parênteses vazio 
+
+- métodos
+    tem parênteses com parâmetros
+
+- variáveis
+    primeira letra da primeira palavra minuscula e a primeira letra das demais palavras maiuscula - "camelCase".
+    Nomes que declaram a função da variável, auto explicativo.
+
+
+
+# Algorítmo
+
+A capacidade humana de fazer o computador seguir ordens na sequência demandada.
+
